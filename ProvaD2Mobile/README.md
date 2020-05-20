@@ -25,3 +25,18 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Atividade Avaliativa D2 - Prof. Ramon Pereira - UniBH 2020/1 - Desenvolvimento
+Mobile - CCP3AN
+
+a) Crie um repositório no GitHub com o nome de ProvaD2-Mobile
+b) Inicie um projeto do Angular na sua máquina
+c) Crie um componente Alunos
+d) Crie uma interface Aluno contendo os seguintes atributos: nome: string,
+idade: number, RA: number.
+e) Crie um serviço AlunosService que deverá inicializar um Aluno com os seus
+dados, retornar esse aluno para o componente Aluno através da função
+getAluno()
+f) No template do componente aluno, exiba os dados do Aluno, retornado pelo
+serviço AlunosService
+g) No template do app componente faça chamada do componente Aluno
+h) Faça o commit do código no GitHub
